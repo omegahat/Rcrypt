@@ -1,0 +1,7 @@
+Package: Rcrypt
+Version: 0.1-0
+Title: Interface to crypt
+Description: Interface to C routine crypt
+Maintainer: Duncan Temple Lang <duncan@wald.ucdavis.edu>
+Author: Duncan Temple Lang <duncan@wald.ucdavis.edu>
+License: BSD
